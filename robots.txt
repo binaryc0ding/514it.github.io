@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://binaryc0ding.github.io/514it.github.io/sitemap.xml
